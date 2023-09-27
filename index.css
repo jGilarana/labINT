@@ -1,0 +1,9 @@
+.img {
+    background-image: url(./fernando-alonso-aston-martin-r-1.jpg);
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    z-index: 1;
+    margin: 0 auto;
+}
